@@ -55,6 +55,3 @@ insert into LuongA21PGS values
 ('6.1'),
 ('6.44'),
 ('6.78');
-insert into NhanViens(MaNhanVien,MatKhau,TrangThai)values(
-'admin','admin',1
-);
